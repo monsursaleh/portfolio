@@ -1,8 +1,9 @@
 # Portfolio Project
+This is a portfolio project with image Gallery
 
 ## Features
 
-- bg colour for the header on the scroll back to top button Hero-banner
+- Background colour for the header on the scroll back to top button Hero-banner
 
 - Fixed header Animated hero-banner, background image fixed (not scrolling), the text is centred
 - horizontally and vertically. Projects
@@ -11,7 +12,7 @@
 
 - Simple lore ipsum text with image Skills
 
--sed icons, progress bar and pseudo-classes Footer
+- icons, progress bar and pseudo-classes Footer
 
 - Contact form Gallery
 
@@ -24,27 +25,41 @@
 ## Screenshots
 
 ![Portfolio](/portfolio.png "Optional title")
+- 
 ![Image Grid](/image_galary.png "Optional title")
 
 ## Tech Stack
 
 **HTML**
+- Validate code and fix issues w3c, lighthouse
+- HTML5
 
-- In the skills section, add skills with icons and progress bars
-- Adding favicon
-- Validate code and fix issues
-  **CSS**
+**CSS**
+- Usign FLEX, Grid 
 - Header position fixed, onScroll with background
 - Hero-banner ::before or after color overlay
 - Use of CSS pseudo classes and elements - skills :nth-child() and icons
 - Styling of skills
-- Make sure the mobile version is still working fine
+- Make mobile version is still working fine
 - Validate CSS
-  **JS**
-- Add to the header background color on the scroll
-- Add back to top button
-- Add mobile menu
+- Animation in Hero text , falling star , arrowUp, Gallery image 
+
+**JS**
+- ES6
+- Adding  to the header background color on the scroll
+- Adding  back to top button
+- Addig   mobile menu nav 
+
+
 
 ## Authors
 
 - [@monsursaleh](https://www.github.com/monsursaleh)
+
+
+
+
+
+
+
+
