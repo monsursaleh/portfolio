@@ -1,4 +1,5 @@
 # Portfolio Project
+
 This is a portfolio project with image Gallery
 
 ## Features
@@ -25,41 +26,34 @@ This is a portfolio project with image Gallery
 ## Screenshots
 
 ![Portfolio](/portfolio.png "Optional title")
-- 
-![Image Grid](/image_galary.png "Optional title")
+
+- ![Image Grid](/images.png "Optional title")
 
 ## Tech Stack
 
 **HTML**
+
 - Validate code and fix issues w3c, lighthouse
 - HTML5
 
 **CSS**
-- Usign FLEX, Grid 
+
+- Usign FLEX, Grid
 - Header position fixed, onScroll with background
 - Hero-banner ::before or after color overlay
 - Use of CSS pseudo classes and elements - skills :nth-child() and icons
 - Styling of skills
 - Make mobile version is still working fine
 - Validate CSS
-- Animation in Hero text , falling star , arrowUp, Gallery image 
+- Animation in Hero text , falling star , arrowUp, Gallery image
 
 **JS**
+
 - ES6
-- Adding  to the header background color on the scroll
-- Adding  back to top button
-- Addig   mobile menu nav 
-
-
+- Adding to the header background color on the scroll
+- Adding back to top button
+- Addig mobile menu nav
 
 ## Authors
 
 - [@monsursaleh](https://www.github.com/monsursaleh)
-
-
-
-
-
-
-
-
