@@ -15,7 +15,7 @@ window.onscroll = () => {
   scrollFunction();
 };
 
-scrollFunction = () => {
+let scrollFunction = () => {
   if (
     document.body.scrollTop > 200 ||
     document.documentElement.scrollTop > 200

@@ -208,6 +208,9 @@ form textarea {
   margin: 1rem;
   padding: 1.75rem;
   min-width: 15rem;
+  transition-duration: var(--timing);
+  box-shadow: 5px 9px 5px 5px white;
+  filter: drop-shadow(8px 8px 10px rgb(6, 6, 6));
 }
 
 .card img {
@@ -226,12 +229,6 @@ form textarea {
   flex-direction: column;
 }
 
-/* for portfolio  card */
-.card {
-  transition-duration: var(--timing);
-  box-shadow: 5px 9px 5px 5px white;
-}
-
 .card:hover {
   transform: scale(70%);
 
@@ -239,10 +236,6 @@ form textarea {
   -webkit-transform: scale(0.6); /* Safari 3-8 */
 }
 
-.card > img > shadow {
-  filter: drop-shadow(8px 8px 10px rgb(6, 6, 6));
-}
-/* for galary  */
 section {
   display: flex;
   background-color: var(--black);
@@ -382,7 +375,6 @@ img {
 }
 img:nth-child(6) {
   grid-area: f;
-  border: var(--galaryImageBorder);
   border: var(--galaryImageBorder);
 }
 img:nth-child(7) {
